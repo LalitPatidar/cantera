@@ -20,7 +20,6 @@ Among other things, it can be used to:
 * Conduct reaction path analysis
 * Create process simulations using networks of stirred reactors
 * Model non-ideal fluids
-* Model thermal decomposition
 
 Cantera can be used from Python and Matlab, or in applications written in C++
 and Fortran 90. A number of `examples of Cantera's capabilities
